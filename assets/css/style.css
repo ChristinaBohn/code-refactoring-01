@@ -59,6 +59,8 @@ p {
     background-position: center;
 }
 
+/* Aligns main text boxes to either margin */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,11 +71,35 @@ p {
     margin-left: 25px;
 }
 
+/* Allows Benefits box to be positioned next to the main text */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Sets parameters, font, and color for main text */
+
+.main-info {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.main-info img {
+    max-height: 200px;
+}
+
+.main-info h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Sets Benefits box parameters, font, and color */
 
 section {
     margin-right: 20px;
@@ -102,23 +128,7 @@ section {
     max-width: 150px;
 }
 
-.main-info {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.main-info img {
-    max-height: 200px;
-}
-
-.main-info h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Sets parameters, font, and color for footer */
 
 footer {
     padding: 30px;
