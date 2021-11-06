@@ -22,6 +22,6 @@ I also learned some of the ways we can format web pages to make them more access
 
 ## Webpage Links
 
-file:///Users/christinabohn/Desktop/bootcamp/projects/code-refactoring-01/index.html#social-media-marketing
+https://christinabohn.github.io/code-refactoring-01/
 
 file:///Users/christinabohn/Desktop/bootcamp/projects/code-refactoring-01/index.html
