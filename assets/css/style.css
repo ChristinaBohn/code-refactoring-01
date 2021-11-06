@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Begin styling for header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navigation bar styling */
 
 header nav {
     padding-top: 15px;
@@ -79,7 +83,7 @@ main {
     margin-left: 20px;
 }
 
-/* Sets parameters, font, and color for main text */
+/* Styling for for main text */
 
 .main-info {
     margin-bottom: 20px;
@@ -99,7 +103,7 @@ main {
     font-size: 36px;
 }
 
-/* Sets Benefits box parameters, font, and color */
+/* Benefits box styling */
 
 section {
     margin-right: 20px;
@@ -128,7 +132,7 @@ section {
     max-width: 150px;
 }
 
-/* Sets parameters, font, and color for footer */
+/* Footer styling */
 
 footer {
     padding: 30px;
